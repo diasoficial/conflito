@@ -1,1 +1,3 @@
 Envio de imagens
+metodo1
+metodo2
