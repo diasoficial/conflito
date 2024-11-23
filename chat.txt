@@ -1,0 +1,6 @@
+metodo1
+metodo2
+metodo3
+metodo4
+metodo5
+metodo6
