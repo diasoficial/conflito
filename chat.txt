@@ -1,1 +1,3 @@
 metodo1
+metodo2
+metodo3
